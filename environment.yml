@@ -1,0 +1,25 @@
+name: IRP_ty221
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jpeg=9
+  - jupyter=1.0  
+  - markdown=3.3.6
+  - numpy=1.22.3
+  - pip=22.0.4
+  - python=3.10.2
+  - python-flatbuffers=2.0
+  - python_abi=3.10
+  - scikit-learn=1.1.1
+  - scipy=1.8.0
+  - setuptools=60.10.0
+  - pip:
+    - imageio==2.19.2
+    - flake8==4.0.1
+    - flake8-docstrings==1.6.0
+    - matplotlib==3.4.3
+    - pandas==1.4.1
+    - pytest==7.1.1
+   - -r requirements.txt
+    - livelossplot==0.5.5
