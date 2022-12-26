@@ -1,0 +1,16 @@
+{
+    "username": "ty221",
+    "code": "PL103",
+    "title": "Applied machine learning for vibration control",
+    "s1": {
+        "name": "Paulo Lopes",
+        "email": "paulo@beyondmining.tech",
+        "affiliation": "Beyond Mining"
+    },
+    "s2": {
+        "name": "Pablo Brito-Parada",
+        "email": "p.brito-parada@imperial.ac.uk",
+        "affiliation": "Imperial College London"
+    },
+    "additional-supervisors": ""
+}
